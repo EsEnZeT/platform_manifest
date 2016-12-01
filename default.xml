@@ -15,7 +15,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="EsEnZeT/android_build" remote="github" revision="kk4.4" > <!-- |WIP| clone Saber +add upstream kk4.4 -->
+  <project path="build" name="EsEnZeT/android_build" remote="github" revision="kk4.4" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="SlimSaber/platform_abi_cpp" remote="github" revision="kk4.4" />
