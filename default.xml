@@ -470,7 +470,7 @@
   <project path="frameworks/webview" name="omnirom/android_frameworks_webview" remote="github" revision="android-4.4" />
 
   <!-- CyanogenMod -->
-  <project path="packages/apps/DSPManager" name="EsEnZeT/android_packages_apps_DSPManager" remote="github" revision="kk4.4" /> <!-- |WIP| clone Saber +add upstream 'cm-11.0' -->
+  <project path="packages/apps/DSPManager" name="EsEnZeT/android_packages_apps_DSPManager" remote="github" revision="kk4.4" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="github" revision="cm-11.0" />
   <project path="external/gson" name="CyanogenMod/android_external_gson" remote="github" revision="cm-11.0" />
   <project path="hardware/ril" name="SlimSaber/hardware_ril" remote="github" revision="kk4.4" />
