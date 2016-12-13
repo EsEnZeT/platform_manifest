@@ -118,7 +118,7 @@
   <project path="external/f2fs-tools" name="SlimRoms/android_external_f2fs-tools" remote="github" revision="kk4.4"  />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="SlimRoms/android_external_flac" remote="github" revision="kk4.4"  />
-  <project path="external/freetype" name="SlimSaber/android_external_freetype" remote="github" revision="kk4.4" />
+  <project path="external/freetype" name="EsEnZeT/android_external_freetype" remote="github" revision="kk4.4" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
